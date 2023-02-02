@@ -1,2 +1,1 @@
-﻿"AadClientId": "045b3abf-ae34-4a59-b3ef-1bd1caad3640", "AadSecret": "3LS8Q~D0d~6D5n5Yn6zkme~IBzGLk8OZTDU6paeC", "AadTenantDomain": "m365x388563.onmicrosoft.com", "AadTenantId": "2f3da1fe-5865-4418-898c-60df60257492",
 ﻿"AadClientId": "045b3abf-ae34-4a59-b3ef-1bd1caad3640", "AadSecret": "xTv8Q~CosWJLAyhJXAX8Oud2X7sYNXnObNkPWcQK", "AadTenantDomain": "m365x388563.onmicrosoft.com", "AadTenantId": "2f3da1fe-5865-4418-898c-60df60257492",
